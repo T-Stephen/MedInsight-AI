@@ -1,0 +1,11 @@
+torch
+transformers
+streamlit
+pyngrok
+requests
+pandas
+fastapi
+uvicorn
+nest_asyncio
+pydantic
+pip install -r requirements.txt
