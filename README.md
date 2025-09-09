@@ -5,6 +5,14 @@ _For education, innovation, and inspiration in digital healthcare._
 
 ---
 
+![GitHub Repo stars](https://img.shields.io/github/stars/T-Stephen/MedInsight-AI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/T-Stephen/MedInsight-AI?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/T-Stephen/MedInsight-AI)
+![GitHub issues](https://img.shields.io/github/issues/T-Stephen/MedInsight-AI)
+![GitHub license](https://img.shields.io/github/license/T-Stephen/MedInsight-AI)
+
+---
+
 ## ✨ Features  
 
 - 🤖 **AI Alternative Suggestions** — personalized medication alternatives with reasoning  
