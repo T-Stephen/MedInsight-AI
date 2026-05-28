@@ -1,50 +1,48 @@
-# 🧬 MedInsight-AI  
+<div align="center">
 
-**AI-powered clinical assistant built with IBM Granite — analyzes medications, suggests safer alternatives, checks interactions, and generates professional reports.**  
-_For education, innovation, and inspiration in digital healthcare._  
+# 🩺 MedInsight-AI
+### Advanced Healthcare Analytics & Clinical AI Assistant
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Core-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AI_Engine-IBM_Granite-0530AD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Granite"/>
+  <img src="https://img.shields.io/badge/Domain-HealthTech-00E5FF?style=for-the-badge" alt="HealthTech"/>
+</p>
 
-## 📛 Badges  
+<br>
 
-![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)  
-![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9A%A1%20App-red?logo=streamlit)  
-![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow)  
-![FastAPI](https://img.shields.io/badge/FastAPI-⚡-009688)  
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
+> *"An advanced healthcare analytics engine architected for rapid AI-driven clinical insights, medication analysis, and interaction safety checks."*
 
-![GitHub Repo stars](https://img.shields.io/github/stars/T-Stephen/MedInsight-AI?style=social)
-![GitHub forks](https://img.shields.io/github/forks/T-Stephen/MedInsight-AI?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/T-Stephen/MedInsight-AI)
-![GitHub issues](https://img.shields.io/github/issues/T-Stephen/MedInsight-AI)
-![GitHub license](https://img.shields.io/github/license/T-Stephen/MedInsight-AI)
+<br>
+</div>
 
 ---
 
-## ✨ Features  
+### 🚀 Executive Summary
 
-- 🤖 **AI Alternative Suggestions** — personalized medication alternatives with reasoning  
-- 👶👩👴 **Age-Specific Dosing** — pediatric, adult, and elderly considerations  
-- 🏥 **Condition-Aware Prescribing** — aligns therapy with common conditions (e.g., diabetes, hypertension)  
-- ⚠️ **Drug Interaction Checker** — highlights potential risks in drug combinations  
-- 📊 **Comprehensive Reports** — export recommendations in text and JSON formats  
-- 🌿 **Natural & Complementary Options** — evidence-informed alternatives  
-- 💰 **Cost Comparison** — insight into affordability and accessibility  
-- 🧰 **Modern Interface** — built with Streamlit, interactive and easy to use  
+In the critical domain of healthcare, data processing speed and analytical accuracy are paramount. **MedInsight-AI** is an advanced clinical assistant powered by the IBM Granite model. It is designed to rapidly analyze complex medication regimens, aggressively flag potential adverse drug interactions, suggest safer pharmacological alternatives, and autonomously generate professional-grade clinical reports.
+
+### ⚙️ System Architecture
+
+* **LLM Integration:** Utilizes the IBM Granite foundation model for deep natural language understanding of medical terminology and pharmacology.
+* **Insight Generation Engine:** Parses clinical input data to cross-reference drug interactions and output highly actionable medical intelligence.
+* **Automated Reporting:** Transforms raw analytical data into structured, ready-to-read professional reports for healthcare practitioners.
 
 ---
 
-## 🚀 Quickstart  
+### 🛠️ Local Deployment (Quick Start)
 
-Clone the repo and run locally:  
+To initialize the clinical AI engine locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/T-Stephen/MedInsight-AI.git
+# 1. Clone the repository
+git clone [https://github.com/T-Stephen/MedInsight-AI.git](https://github.com/T-Stephen/MedInsight-AI.git)
+
+# 2. Navigate to the system directory
 cd MedInsight-AI
 
-# Install dependencies
+# 3. Install core dependencies
 pip install -r requirements.txt
 
-# Run the app
-streamlit run "AI medical Prescritption.py"
+# 4. Execute the AI engine
+python main.py
